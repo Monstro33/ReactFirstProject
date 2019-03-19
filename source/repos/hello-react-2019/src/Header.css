@@ -1,0 +1,12 @@
+header {
+    height: 15vh;
+    background-color: rgb(15, 15, 15);
+    color: red;
+    display: flex;
+    align-items: center;
+
+}
+
+header img {
+  margin: auto;
+}
